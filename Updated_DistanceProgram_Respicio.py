@@ -11,7 +11,6 @@ y2 = float(input("Enter y2: "))
 distance = math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
 
 # PRINT THE SOLVED CALCULATIONS
-print()
 print(f"The distance between the two points is: {distance:.2f}")
 
 # REFLECTION AND EVALUATION
